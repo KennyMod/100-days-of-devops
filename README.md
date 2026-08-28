@@ -29,11 +29,12 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 
 ## Progress
 
-**Completed: 1 / 100**
+**Completed: 2 / 100**
 
 | Day                                                         | Topic                                       | Key Skills                                                                       | Status     |
 | ----------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
 | [Day 01](daily-notes/day-001-linux-non-interactive-user.md) | Linux User Setup with Non-Interactive Shell | Linux users, service accounts, `useradd`, `/etc/passwd`, `nologin`, verification | ✅ Complete |
+| [Day 02](daily-notes/day-002-temporary-user-expiry.md) | Temporary Linux User with Expiry Date | `useradd`, account expiry, `chage`, access lifecycle | ✅ Complete |
 
 ## Areas Covered
 
