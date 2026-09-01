@@ -29,7 +29,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 
 ## Progress
 
-**Completed: 4 / 100**
+**Completed: 5 / 100**
 
 | Day                                                         | Topic                                       | Key Skills                                                                       | Status     |
 | ----------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
@@ -37,6 +37,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 | [Day 02](daily-notes/day-002-temporary-user-expiry.md) | Temporary Linux User with Expiry Date | `useradd`, account expiry, `chage`, access lifecycle | ✅ Complete |
 | [Day 03](daily-notes/day-003-disable-root-ssh-login.md) | Disable Direct Root SSH Login | SSH hardening, `sshd_config`, `PermitRootLogin`, configuration validation | ✅ Complete |
 | [Day 04](daily-notes/day-004-linux-file-permissions.md) | Linux File Permissions for Executable Script | `chmod`, symbolic permissions, numeric modes, least privilege | ✅ Complete |
+| [Day 05](daily-notes/day-005-selinux-configuration.md) | SELinux Installation and Persistent Configuration | SELinux, MAC, `dnf`, `rpm`, persistent security configuration | ✅ Complete |
 
 ## Areas Covered
 
