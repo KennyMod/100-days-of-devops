@@ -29,7 +29,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 
 ## Progress
 
-**Completed: 5 / 100**
+**Completed: 6 / 100**
 
 | Day                                                         | Topic                                       | Key Skills                                                                       | Status     |
 | ----------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
@@ -38,6 +38,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 | [Day 03](daily-notes/day-003-disable-root-ssh-login.md) | Disable Direct Root SSH Login | SSH hardening, `sshd_config`, `PermitRootLogin`, configuration validation | ✅ Complete |
 | [Day 04](daily-notes/day-004-linux-file-permissions.md) | Linux File Permissions for Executable Script | `chmod`, symbolic permissions, numeric modes, least privilege | ✅ Complete |
 | [Day 05](daily-notes/day-005-selinux-configuration.md) | SELinux Installation and Persistent Configuration | SELinux, MAC, `dnf`, `rpm`, persistent security configuration | ✅ Complete |
+| [Day 06](daily-notes/day-006-linux-cron-job.md) | Linux Cron Job Automation | `cronie`, `crond`, cron expressions, scheduled automation | ✅ Complete |
 
 ## Areas Covered
 
