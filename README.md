@@ -29,7 +29,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 
 ## Progress
 
-**Completed: 7 / 100**
+**Completed: 8 / 100**
 
 | Day                                                         | Topic                                       | Key Skills                                                                       | Status     |
 | ----------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
@@ -40,6 +40,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 | [Day 05](daily-notes/day-005-selinux-configuration.md) | SELinux Installation and Persistent Configuration | SELinux, MAC, `dnf`, `rpm`, persistent security configuration | ✅ Complete |
 | [Day 06](daily-notes/day-006-linux-cron-job.md) | Linux Cron Job Automation | `cronie`, `crond`, cron expressions, scheduled automation | ✅ Complete |
 | [Day 07](daily-notes/day-007-passwordless-ssh.md) | Passwordless SSH Authentication | SSH keys, `ssh-keygen`, `ssh-copy-id`, `authorized_keys`, automation | ✅ Complete |
+| [Day 08](daily-notes/day-008-install-ansible.md) | Install Ansible on Control Node | Ansible, `pip3`, configuration management, automation control node | ✅ Complete |
 
 ## Areas Covered
 
