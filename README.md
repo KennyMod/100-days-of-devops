@@ -29,7 +29,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 
 ## Progress
 
-**Completed: 9 / 100**
+**Completed: 10 / 100**
 
 | Day                                                         | Topic                                       | Key Skills                                                                       | Status     |
 | ----------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
@@ -42,6 +42,7 @@ The goal is not simply to complete 100 tasks, but to understand **why** each sol
 | [Day 07](daily-notes/day-007-passwordless-ssh.md) | Passwordless SSH Authentication | SSH keys, `ssh-keygen`, `ssh-copy-id`, `authorized_keys`, automation | ✅ Complete |
 | [Day 08](daily-notes/day-008-install-ansible.md) | Install Ansible on Control Node | Ansible, `pip3`, configuration management, automation control node | ✅ Complete |
 | [Day 09](daily-notes/day-009-mariadb-troubleshooting.md) | Troubleshoot MariaDB Service Failure | `systemctl`, `journalctl`, MariaDB, permissions, service recovery, incident troubleshooting | ✅ Complete |
+| [Day 10](daily-notes/day-010-bash-backup-script.md) | Bash Website Backup Automation | Bash, `zip`, `scp`, SSH keys, remote backups, verification | ✅ Complete |
 
 ## Areas Covered
 
